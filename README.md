@@ -6,4 +6,4 @@ The complete tutorial can be seen from here: [Full React Tutorial](https://www.y
 
 ## Preview
 
-This project is here: [Blog]()
+This project is here: [Blog](https://denisseee.github.io/blog_react/)
